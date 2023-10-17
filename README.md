@@ -4,16 +4,15 @@ Comparing the solutions given by CAPTCHA with the answers it provides.
 
 ## Supported CAPTCHAs / Services
 
-| CAPTCHA\\Service | Image   | Text | reCAPTCHA v2 | reCAPTCHA v2 invisible | reCAPTCHA v2 enterprise | reCAPTCHA v3 | reCAPTCHA v3 enterprise | FunCaptcha | KeyCAPTCHA | Geetest | Geetest v4 | hCaptcha | Capy | DataDome Captcha | CyberSiara Captcha | AWS Captcha |
-|------------------|---------|------|--------------|--------------|------------|------------|---------|------------|----------|------|
-| capsolver.com    | ✅      | ✅    | ✅            | ✅            | ✅          | ✅          | ✅       | ✅          | ✅        | ✅    |
-| 2captcha.com     | ✅      | ✅    | ✅            | ✅            | ✅          | ✅          | ✅       | ✅          | ✅        | ✅    |
-| anti-captcha.com | ✅     | ❌    | ✅            | ✅            | ✅          | ✅          | ✅       | ✅          | ✅        | ❌    |
-| azcaptcha.com    | ✅     | ❌    | ✅            | ✅            | ✅          | ❌          | ✅       | ❌          | ✅        | ❌    |
-| captcha.guru     | ✅     | ❌    | ✅            | ✅            | ❌          | ❌          | ✅       | ❌          | ✅        | ❌    |
-| cptch.net        | ✅     | ❌    | ✅            | ✅            | ❌          | ❌          | ❌       | ❌          | ❌        | ❌    |
-| deathbycaptcha   | ✅     | ❌    | ✅            | ✅            | ❌          | ❌          | ✅       | ❌          | ✅        | ❌    |
-| rucaptcha.com    | ✅     | ✅    | ✅            | ✅            | ✅          | ✅          | ✅       | ✅          | ✅        | ✅    |
+## Supported CAPTCHAs / Services
+
+| CAPTCHA\\Service    | Image | Text | reCAPTCHA v2 | reCAPTCHA v2 invisible | reCAPTCHA v2 enterprise | reCAPTCHA v3 | reCAPTCHA v3 enterprise | FunCaptcha | KeyCAPTCHA | Geetest | Geetest v4 | hCaptcha | Capy | DataDome Captcha | CyberSiara Captcha | AWS Captcha |
+|---------------------|-------|------|--------------|------------------------|-------------------------|--------------|------------------------|------------|------------|---------|------------|----------|------|------------------|-------------------|-------------|
+| capsolver.com       | ✅     | ✅    | ✅            | ✅                      | ✅                       | ✅            | ✅                      | ✅          | ✅          | ✅       | ✅          | ✅        | ✅    | ✅                  | ✅                 | ✅           |
+| 2captcha.com        | ✅     | ✅    | ✅            | ❌                      | ❌                       | ✅            | ❌                      | ✅          | ✅          | ✅       | ✅          | ✅        | ✅    | ❌                  | ❌                 | ❌           |
+| anti-captcha.com    | ✅     | ❌    | ✅            | ❌                      | ❌                       | ✅            | ❌                      | ✅          | ✅          | ✅       | ✅          | ✅        | ❌    | ❌                  | ❌                 | ❌           |
+| ...                 | ...   | ...  | ...          | ...                    | ...                     | ...          | ...                    | ...        | ...        | ...     | ...        | ...      | ...  | ...                | ...               | ...         |
+
 
 ### Image CAPTCHA
 
