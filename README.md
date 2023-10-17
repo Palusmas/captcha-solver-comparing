@@ -2,16 +2,20 @@
 Comparing the solutions given by CAPTCHA with the answers it provides.
 
 
-## Supported CAPTCHAs / Services
 
-## Supported CAPTCHAs / Services
+## Supported (That actually works) CAPTCHAs / Services
 
-| CAPTCHA\\Service    | Image | Text | reCAPTCHA v2 | reCAPTCHA v2 invisible | reCAPTCHA v2 enterprise | reCAPTCHA v3 | reCAPTCHA v3 enterprise | FunCaptcha | KeyCAPTCHA | Geetest | Geetest v4 | hCaptcha | Capy | DataDome Captcha | CyberSiara Captcha | AWS Captcha |
-|---------------------|-------|------|--------------|------------------------|-------------------------|--------------|------------------------|------------|------------|---------|------------|----------|------|------------------|-------------------|-------------|
-| capsolver.com       | ✅     | ✅    | ✅            | ✅                      | ✅                       | ✅            | ✅                      | ✅          | ✅          | ✅       | ✅          | ✅        | ✅    | ✅                  | ✅                 | ✅           |
-| 2captcha.com        | ✅     | ✅    | ✅            | ❌                      | ❌                       | ✅            | ❌                      | ✅          | ✅          | ✅       | ✅          | ✅        | ✅    | ❌                  | ❌                 | ❌           |
-| anti-captcha.com    | ✅     | ❌    | ✅            | ❌                      | ❌                       | ✅            | ❌                      | ✅          | ✅          | ✅       | ✅          | ✅        | ❌    | ❌                  | ❌                 | ❌           |
-| ...                 | ...   | ...  | ...          | ...                    | ...                     | ...          | ...                    | ...        | ...        | ...     | ...        | ...      | ...  | ...                | ...               | ...         |
+| Captcha Service    | Image Captcha | reCaptcha v2 | reCaptcha v2 Invisible | reCaptcha v2 Enterprise | reCaptcha v3 | reCaptcha v3 Enterprise | FunCaptcha | hCaptcha | hCaptcha Enterprise | Geetest V3 | Geetest V4 | DataDome Captcha | CyberSiara Captcha | AWS Captcha |
+|--------------------|---------------|--------------|------------------------|-------------------------|--------------|-------------------------|------------|----------|---------------------|------------|------------|------------------|--------------------|-------------|
+| capsolver.com      | ✅             | ✅            | ✅                      | ✅                       | ✅            | ✅                       | ✅          | ✅        | ✅                   | ✅          | ✅          | ✅                | ✅                  | ✅           |
+| 2captcha.com       | ✅             | ✅            | ❌                      | ❌                       | ❌            | ❌                       | ❌          | ✅        | ❌                   | ✅          | ✅          | ❌                | ✅                  | ✅           |
+| anti-captcha.com   | ✅             | ✅            | ❌                      | ❌                       | ❌            | ❌                       | ❌          | ✅        | ❌                   | ✅          | ✅          | ❌                | ❌                  | ❌           |
+| azcaptcha.com      | ✅             | ✅            | ❌                      | ❌                       | ❌            | ❌                       | ❌          | ✅        | ❌                   | ✅          | ✅          | ❌                | ❌                  | ❌           |
+| captcha.guru       | ✅             | ✅            | ❌                      | ❌                       | ❌            | ❌                       | ❌          | ✅        | ❌                   | ✅          | ✅          | ❌                | ❌                  | ❌           |
+| cptch.net          | ✅             | ✅            | ❌                      | ❌                       | ❌            | ❌                       | ❌          | ✅        | ❌                   | ✅          | ✅          | ❌                | ❌                  | ❌           |
+| deathbycaptcha.com | ✅             | ✅            | ❌                      | ❌                       | ❌            | ❌                       | ❌          | ✅        | ❌                   | ✅          | ✅          | ❌                | ❌                  | ❌           |
+| rucaptcha.com      | ✅             | ✅            | ❌                      | ❌                       | ❌            | ❌                       | ❌          | ✅        | ❌                   | ✅          | ✅          | ❌                | ❌                  | ❌           |
+| capmonster.com     | ✅             | ✅            | ❌                      | ❌                       | ❌            | ❌                       | ❌          | ✅        | ❌                   | ✅          | ✅          | ❌                | ❌                  | ❌           |
 
 
 ### Image CAPTCHA
