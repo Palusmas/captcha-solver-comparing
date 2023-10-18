@@ -55,7 +55,7 @@ The evaluation was conducted across various platforms, encompassing a range of C
 | rucaptcha.com      | ✅      |      |
 | capmonster.com     | ✅      |      |
 
-
+## reCaptcha v2 invisible
 | Captcha Service    | Support | Best |
 |--------------------|---------|------|
 | capsolver.com      | ✅      |   🥇    |
@@ -112,14 +112,14 @@ The evaluation was conducted across various platforms, encompassing a range of C
 ## hCaptcha
 | Captcha Service    | Support | Best |
 |--------------------|---------|------|
-| capsolver.com      | ✅      |      |
-| 2captcha.com       | ✅      | 🥇   |
+| capsolver.com      | ✅      |  🥇    |
+| 2captcha.com       | ✅      |    |
 | anti-captcha.com   | ✅      |      |
 | azcaptcha.com      | ✅      |      |
 | captcha.guru       | ✅      |      |
 | deathbycaptcha.com | ✅      |      |
 | rucaptcha.com      | ✅      |      |
-| capmonster.com     | ✅      |  🥇    |
+| capmonster.com     | ✅      |      |
 
 
 ## hCaptcha Enterprise
